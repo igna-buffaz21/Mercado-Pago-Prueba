@@ -1,4 +1,8 @@
 Para hacerlo funcionar tenes que:
+1) clonar el repo
+2) npm install, para descargar todas las dependecias del proyecto
+
+
 1) ir a https://www.mercadopago.com.ar/developers/es
 2) ir a tus integraciones
 3) crear una nueva integracion
